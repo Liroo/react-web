@@ -35,5 +35,8 @@
       "es2015",
       "react"
     ]
+  },
+  "devDependencies": {
+    "fbjs": "^0.8.4"
   }
 }
