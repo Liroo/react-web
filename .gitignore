@@ -42,3 +42,7 @@ buck-out/
 \.buckd/
 android/app/libs
 android/keystores/debug.keystore
+
+
+#Custom ignore
+bundleCore/*
